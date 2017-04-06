@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppWithMaterialTabs</string>
+    <string name="vk">this is vk tab</string>
+    <string name="facebook">this is FaceBook tab</string>
+    <string name="instagram">this is instagram tab</string>
+    <string name="facebook_app_id">1408466885840551</string>
+    <string name="fb_login_protocol_scheme">fbAPP_ID</string>
+    <string name="app_id">id</string>
+    <integer name="com_vk_sdk_AppId">5961984</integer>
+</resources>
